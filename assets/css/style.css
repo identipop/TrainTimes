@@ -1,0 +1,49 @@
+.jumbotron{
+    width: 100%;
+    text-align: center;
+    max-height: 150px;
+    padding-top: 30px;
+    background-color: rgba(255, 255, 255, 0.753);
+    
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(../images/background.jpg);
+    background-size: 100%
+}
+
+.scheduleholder{
+    padding: 5px;
+    text-align: center;
+}
+#schedule{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+table{
+    width: 90%;
+    text-align: center;
+}
+
+th{
+    text-align: center;
+    font-weight: bolder;    
+}
+
+.panel-heading{
+    font-size: 20px;
+}
+
+.headingschedule{
+    width: 100%;
+    padding: 10px 0px;
+}
